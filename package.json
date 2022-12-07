@@ -1,0 +1,24 @@
+{
+  "name": "rule",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:neo-rooney/rule.git",
+  "author": "neo-rooney",
+  "license": "MIT",
+  "devDependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/material": "^5.10.17",
+    "@types/react": "^18.0.26",
+    "react": "^18.2.0",
+    "typescript": "^4.9.3"
+  },
+  "peerDependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/material": "^5.10.17",
+    "@types/react": "^18.0.26",
+    "react": "^18.2.0",
+    "typescript": "^4.9.3"
+  }
+}

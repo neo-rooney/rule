@@ -1,8 +1,7 @@
 import React from "react";
-import {
-  Button as MuiButton,
-  ButtonProps as MuiButtonProps,
-} from "@mui/material";
+
+import MuiButton from "@mui/material/Button";
+import { ButtonProps as MuiButtonProps } from "@mui/material";
 
 type ButtonBaseProps = Pick<MuiButtonProps, "variant" | "size" | "color">;
 
